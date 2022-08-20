@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ApSreHGtX68epLF4mZuezq1jOVclXIH66ZdH62fLDHRLcD2kS79CnEKuA+4f8mQpiRpr3QKbb5CHHQuY2b2tFA==",
+=======
+  "dgSpecHash": "WsSegY+tkWb9zffOn75jKDNJCsDj2M1vRzuMPx2tWCZf2F96Wgx32KuSksA8nFPhVSQwUPNvv/oU4M/eQrDagg==",
+>>>>>>> parent of f7242c9 (no message)
   "success": true,
-  "projectFilePath": "C:\\Users\\HP15-EH0005LA\\Documents\\Billing\\Billing\\Billing.csproj",
+  "projectFilePath": "C:\\Users\\HP15-EH0005LA\\source\\repos\\Billing\\Billing\\Billing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP15-EH0005LA\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\HP15-EH0005LA\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
