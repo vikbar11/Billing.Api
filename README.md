@@ -1,2 +1,0 @@
-# Billing
-Prueba técnica
